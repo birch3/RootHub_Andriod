@@ -1,1 +1,1 @@
-An andriod app to link with a remote website link
+# This repo is for demonstration purpose only.
